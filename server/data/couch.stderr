@@ -1,0 +1,30 @@
+/Users/allyouneedisgnu/Workspace/HackathonGEN_server/server/node_modules/hoodie-server/node_modules/multicouch/bin/launch-couchdb-from-app.sh: line 4: cd: /Contents/Resources/couchdbx-core: No such file or directory
+/Users/allyouneedisgnu/Workspace/HackathonGEN_server/server/node_modules/hoodie-server/node_modules/multicouch/bin/launch-couchdb-from-app.sh: line 5: ./bin/couchdb: No such file or directory
+/Users/allyouneedisgnu/Workspace/HackathonGEN_server/server/node_modules/hoodie-server/node_modules/multicouch/bin/launch-couchdb-from-app.sh: line 4: cd: /Contents/Resources/couchdbx-core: No such file or directory
+/Users/allyouneedisgnu/Workspace/HackathonGEN_server/server/node_modules/hoodie-server/node_modules/multicouch/bin/launch-couchdb-from-app.sh: line 5: ./bin/couchdb: No such file or directory
+
+/usr/local/bin/couchdb: line 280: /usr/local/opt/erlang/bin/erl: No such file or directory
+
+heart_beat_kill_pid = 77806
+heart_beat_timeout = 11
+heart: Sat Oct 11 00:50:52 2014: Erlang has closed.
+/usr/local/Cellar/couchdb/1.6.1/bin/couchdb: line 343: echo: write error: Broken pipe
+heart: Sat Oct 11 00:50:52 2014: Executed "/usr/local/Cellar/couchdb/1.6.1/bin/couchdb -k" -> 256. Terminating.
+
+heart_beat_kill_pid = 78421
+heart_beat_timeout = 11
+heart: Sat Oct 11 00:51:01 2014: Erlang has closed.
+/usr/local/Cellar/couchdb/1.6.1/bin/couchdb: line 343: echo: write error: Broken pipe
+heart: Sat Oct 11 00:51:01 2014: Executed "/usr/local/Cellar/couchdb/1.6.1/bin/couchdb -k" -> 256. Terminating.
+
+heart_beat_kill_pid = 78484
+heart_beat_timeout = 11
+heart: Sat Oct 11 00:52:45 2014: Erlang has closed.
+/usr/local/Cellar/couchdb/1.6.1/bin/couchdb: line 343: echo: write error: Broken pipe
+heart: Sat Oct 11 00:52:45 2014: Executed "/usr/local/Cellar/couchdb/1.6.1/bin/couchdb -k" -> 256. Terminating.
+
+heart_beat_kill_pid = 78601
+heart_beat_timeout = 11
+heart: Sat Oct 11 01:04:12 2014: Erlang has closed.
+/usr/local/Cellar/couchdb/1.6.1/bin/couchdb: line 343: echo: write error: Broken pipe
+heart: Sat Oct 11 01:04:12 2014: Executed "/usr/local/Cellar/couchdb/1.6.1/bin/couchdb -k" -> 256. Terminating.
